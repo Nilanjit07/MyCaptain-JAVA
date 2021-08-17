@@ -18,13 +18,13 @@ class PrimeNumber
 			          int k = i%j;
 			          if(k == 0)
 			          { 
-				              System.out.println("Not Prime !");
-				              break;
+				         System.out.println("Not Prime !");
+				         break;
 			          }
 		        }
 		    if(j == i)
 		    {
-			        System.out.println("Prime Number");
+			 System.out.println("Prime Number");
 		    } 
 	     }		
    }
