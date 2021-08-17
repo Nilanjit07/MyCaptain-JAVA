@@ -1,7 +1,8 @@
 import java.util.*;
 class fibonacci 
 {
-  public static void main(String args[]) {
+  public static void main(String args[]) 
+  {
 	Scanner sc = new Scanner(System.in);
 	int a,f=0,s=1;
 	System.out.println("Enter the number of elements: ");
